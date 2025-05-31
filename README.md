@@ -12,7 +12,7 @@ A modern, responsive personal portfolio website built using **HTML**, **CSS**, a
 
 ## 👨‍💻 About Me
 
-I’m **IMX23** (Farhan), a passionate B.Tech AI-ML student, web developer, and ethical hacking enthusiast. This portfolio reflects my personality, tech skills, and work experience in a simple, minimal, and elegant style.
+I’m **ixmartfarhan** (Farhan), a passionate B.Tech AI-ML student, web developer, and ethical hacking enthusiast. This portfolio reflects my personality, tech skills, and work experience in a simple, minimal, and elegant style.
 
 ---
 
@@ -64,7 +64,7 @@ portfolio-website/
 
 ## 🙋‍♂️ Author
 
-**IMX23 (Farhan)**  
+**ixmartfarhan**  
 🔗 [GitHub](https://github.com/ixmartfarhan)  
 📷 [LinkedIn](https://www.linkedin.com/in/mohd-farhan-1b17b4298)
 🧠 B.Tech AI-ML | Web Developer | Ethical Hacking Learner
